@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 /**
  * @author Arjun Dhuliya
- * @author Nihar Vanjara
  */
 public class PlayerView implements Serializable {
 
