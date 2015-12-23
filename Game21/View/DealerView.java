@@ -1,6 +1,5 @@
 /**
  * @author Arjun Dhuliya
- * @author Nihar Vanjara
  */
 package Game21.View;
 
